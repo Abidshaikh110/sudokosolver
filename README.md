@@ -1,1 +1,2 @@
 # sudokosolver
+This project features a Sudoku Solver with a simple GUI built using Java’s Swing library. Users can input a Sudoku puzzle, solve it, and clear the grid. The solver uses a backtracking algorithm to fill empty cells with numbers from 1 to 9, ensuring all constraints are met. The GUI includes a 9x9 grid with color-coded 3x3 subgrids, a “Solve” button to solve the puzzle, and a “Clear” button to reset the grid. Input validation ensures only numbers between 1 and 9 are accepted.
